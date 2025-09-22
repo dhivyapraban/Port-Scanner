@@ -13,7 +13,7 @@ Port-Scanner
 └── README.md # This file
 ```
 
- **Important:** Place the `inverter_rf.joblib` and `feature_columns.joblib` files in the `ML_PArt` folder, and update paths in `predict_device.py` if necessary.
+ **Important:** Place the `inverter_rf.joblib` and `feature_columns.joblib` files in the `models` folder, and update paths in `scanner.py`.
 
 # Prerequisites
 
